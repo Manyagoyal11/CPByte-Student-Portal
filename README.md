@@ -1,17 +1,25 @@
-# CPBYTE Student Portal
+# 🚀 CPBYTE Student Portal
 
-## 🚀 About Project
+> 👩‍💻 Developed as part of a team project under CPBYTE organization
 
-A full-stack student portal built for managing student activities, attendance, and performance.
+---
+
+## 📌 About Project
+
+A full-stack student portal designed to manage student activities, attendance, and overall performance efficiently.
+
+---
 
 ## 💡 My Contribution
 
-* Worked on **Leaderboard module**
+* Worked on the **Leaderboard Module**
 * Implemented:
 
-  * Pagination in leaderboard
-  * Ranking system
-  * Performance improvements
+  * Pagination for efficient data handling
+  * Ranking system for students
+  * Performance optimizations for faster loading
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -20,6 +28,15 @@ A full-stack student portal built for managing student activities, attendance, a
 * Express.js
 * MongoDB
 
-## 🌐 Live Link
+---
 
-https://cpbytestudentportal.netlify.app/
+## 🌐 Live Project
+
+👉 https://cpbytestudentportal.netlify.app/
+
+---
+
+## 📢 Note
+
+This project was originally developed in a team under the CPBYTE organization.
+This repository highlights my individual contribution to the project.
